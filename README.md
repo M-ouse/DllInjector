@@ -1,1 +1,5 @@
-"# DllInjector" 
+# Dll Injector
+
+2020/2/10 第一次上线，采用mfc框架开发，实现了遍历进程注入dll的功能
+
+持续维护中
